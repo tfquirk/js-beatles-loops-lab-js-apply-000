@@ -20,4 +20,14 @@ function johnLennonFacts(array) {
   return emphasizedFacts;
 }
 
+function iLoveTheBeatles(num) {
+  let emptyArray = [];
+  
+}
+
+
+
+
+
+
 
